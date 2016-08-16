@@ -43,7 +43,7 @@ Expected Output:
 
 Execução
 ------
-O arquivo foi criado em C utilizando a ferramenta de edição Sublime Text e compilada no terminal utilizando o compilador GCC.
+O arquivo foi criado em C utilizando a ferramenta de edição Sublime Text e compilada no Terminal (MacOS ou Linux) utilizando o compilador GCC.
 Para a execução, utilizou-se a linha de código:
 ```
 gcc mars.c -o mars
